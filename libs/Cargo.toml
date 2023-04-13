@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "blockscout-auth",
+    "blockscout-db",
+    "blockscout-service-launcher",
+    "display-bytes",
+    "mismatch",
+    "solidity-metadata",
+]
